@@ -19,36 +19,32 @@ I enjoy working on backend systems involving asynchronous programming, database 
 - ⛓️ Building backend systems for financial and blockchain applications
 - 🌍 Open to junior/entry-level backend opportunities
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
+### Languages
+- 🐍 Python
 
-**Backend**
-- FastAPI
-- REST APIs
-- AsyncIO
-- Uvicorn
+### Backend
+- ⚡ FastAPI
+- 🔄 Async Python
+- 🌐 REST APIs
 
-**Databases**
-- PostgreSQL
-- SQLite
-- SQLAlchemy
-- Alembic
+### Databases & ORM
+- 🐘 PostgreSQL
+- 🗄️ SQLite
+- 🔗 SQLAlchemy
+- 🛠️ Alembic
 
-**Testing**
-- Pytest
-- Concurrency Testing
-- Race Condition Testing
+### Testing
+- 🧪 Pytest
+- 🔄 Concurrency Testing
+- ⚔️ Race Condition Testing
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Virtual Environments
-
----
+### Tools & Development
+- 🔧 Git
+- 🐙 GitHub
+- 💻 VS Code
+- 📦 Virtual Environments
 
 ## 📌 Featured Projects
 
