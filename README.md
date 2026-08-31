@@ -1,6 +1,6 @@
 # Hi, I'm Eniamo Danly 👋
 
-### Python Backend Developer | FastAPI Specialist | Async APIs
+### Python Backend Developer | FastAPI | Async APIs | PostgreSQL
 
 I'm a Python backend developer focused on building reliable, scalable, and high-performance APIs with **FastAPI**.
 
