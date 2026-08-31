@@ -50,34 +50,21 @@ I enjoy working on backend systems involving asynchronous programming, database 
 
 ### 🏦 Banking API
 
-A transactional banking backend built with FastAPI.
+A backend banking API built with FastAPI, focused on transactional operations, database design, concurrency, and reliable backend architecture.
 
-**Highlights:**
-- Asynchronous API architecture
-- Transactional database operations
-- SQLAlchemy ORM
-- Alembic migrations
-- Data integrity testing
-- Concurrency and race-condition testing
+**Tech:** Python • FastAPI • SQLAlchemy • PostgreSQL • Alembic • Pytest
 
-🔗 [View Banking API](https://github.com/Eniadan/banking_api)
+🔗 [View Project](../banking_api)
 
----
 
 ### ⛓️ Blockchain Payment API
 
-A scalable blockchain payment backend built with FastAPI.
+A scalable payment API built with FastAPI for blockchain-based payment systems, with a focus on asynchronous processing, API architecture, and scalability.
 
-**Highlights:**
-- Scalable FastAPI architecture
-- Asynchronous API design
-- Payment processing workflows
-- Backend performance considerations
-- API-focused architecture
+**Tech:** Python • FastAPI • Async Python • PostgreSQL
 
-🔗 [View Blockchain Payment API](https://github.com/Eniadan/blockchain-payment-api)
+🔗 [View Project](../blockchain-payment-api)
 
----
 
 ## 📊 What I'm Currently Working On
 
@@ -99,9 +86,15 @@ A scalable blockchain payment backend built with FastAPI.
 🐙 **GitHub:** [Eniadan](https://github.com/Eniadan)
 
 ---
+## 💼 Open to Opportunities
 
-### 💡 Open to Backend Opportunities
+I'm currently open to **Junior / Entry-Level Python Backend Developer** opportunities, particularly roles involving:
 
-I'm currently looking for **Junior Python Backend Developer / FastAPI opportunities**, including remote positions and opportunities that allow me to work with international engineering teams.
+- Python
+- FastAPI
+- REST APIs
+- PostgreSQL
+- Backend systems
+- FinTech and payment systems
 
-If you're building backend systems with Python and FastAPI, I'd be happy to connect.
+🌍 Open to remote opportunities with international engineering teams.
