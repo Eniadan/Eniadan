@@ -11,15 +11,13 @@ I enjoy working on backend systems involving asynchronous programming, database 
 ## 🚀 About Me
 
 - 🐍 Python Backend Developer
-- ⚡ FastAPI & asynchronous API development
-- 🔐 Interested in secure and reliable backend systems
-- 🗄️ PostgreSQL, SQLite & SQLAlchemy
-- 🧪 Pytest & backend testing
-- 🔄 Alembic database migrations
-- ⛓️ Building scalable APIs for blockchain payment systems
-- 🏦 Experience building transactional banking APIs
-- 🌍 Open to junior/entry-level backend opportunities worldwide
-
+- ⚡ Building APIs with FastAPI and asynchronous Python
+- 🗄️ Working with PostgreSQL, SQLite, SQLAlchemy, and Alembic
+- 🧪 Writing and testing backend systems with Pytest
+- 🔐 Interested in secure, reliable, and scalable backend architecture
+- 🔄 Exploring concurrency, transactions, and race-condition handling
+- ⛓️ Building backend systems for financial and blockchain applications
+- 🌍 Open to junior/entry-level backend opportunities
 ---
 
 ## 🛠️ Tech Stack
